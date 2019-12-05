@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-auth/#history
 
+## [1.8.0](https://www.github.com/googleapis/google-auth-library-python/compare/v1.7.2...v1.8.0) (2019-12-05)
+
+
+### Features
+
+* add `to_json` method to google.oauth2.credentials.Credentials ([#367](https://www.github.com/googleapis/google-auth-library-python/issues/367)) ([bfb1f8c](https://www.github.com/googleapis/google-auth-library-python/commit/bfb1f8cc8a706ce5ca2a14886c920ca2220ec349))
+
 ### [1.7.2](https://www.github.com/googleapis/google-auth-library-python/compare/v1.7.1...v1.7.2) (2019-12-02)
 
 
